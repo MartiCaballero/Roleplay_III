@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\59893\\.nuget\\packages\\": {}
+    "C:\\Users\\Georgina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Program\\Program.csproj",
-      "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
-      "outputPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Program\\obj\\",
+      "projectPath": "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\Georgina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Georgina\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Library\\Library.csproj": {
-              "projectPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Library\\Library.csproj"
+            "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\Library\\Library.csproj": {
+              "projectPath": "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\Library\\Library.csproj"
             }
           }
         }

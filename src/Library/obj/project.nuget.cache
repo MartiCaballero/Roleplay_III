@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YF5s+vJP3oACarlvDjrZbRUcRxPEoM8DGmm/a36SBJZwsd5reI9ww11Sjeox62czfKtymti46QzNIUVX5hCatg==",
+  "dgSpecHash": "RNGO2TBiAkPL6pUve06qaDSge/WT6Ii/ULMcXEnwMnCi8B8MxTpwxCD5C5Q6Q0AzcWe4HI/sMiY1ir0hmInofA==",
   "success": true,
-  "projectFilePath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Library\\Library.csproj",
+  "projectFilePath": "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\Library\\Library.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\59893\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\59893\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\59893\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+    "C:\\Users\\Georgina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Georgina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Georgina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
   ],
   "logs": []
 }

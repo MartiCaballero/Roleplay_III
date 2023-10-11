@@ -4735,19 +4735,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\59893\\.nuget\\packages\\": {}
+    "C:\\Users\\Georgina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\test\\Test.Library\\Test.Library.csproj",
+      "projectUniqueName": "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\test\\Test.Library\\Test.Library.csproj",
       "projectName": "Test.Library",
-      "projectPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\test\\Test.Library\\Test.Library.csproj",
-      "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
-      "outputPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\test\\Test.Library\\obj\\",
+      "projectPath": "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\test\\Test.Library\\Test.Library.csproj",
+      "packagesPath": "C:\\Users\\Georgina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Georgina\\repos\\Roleplay_III\\src\\test\\Test.Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Georgina\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
