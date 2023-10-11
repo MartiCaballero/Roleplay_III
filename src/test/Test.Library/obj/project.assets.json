@@ -4740,11 +4740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\test\\Test.Library\\Test.Library.csproj",
+      "projectUniqueName": "C:\\Carpet1\\Roleplay_III\\src\\test\\Test.Library\\Test.Library.csproj",
       "projectName": "Test.Library",
-      "projectPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\test\\Test.Library\\Test.Library.csproj",
+      "projectPath": "C:\\Carpet1\\Roleplay_III\\src\\test\\Test.Library\\Test.Library.csproj",
       "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
-      "outputPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\test\\Test.Library\\obj\\",
+      "outputPath": "C:\\Carpet1\\Roleplay_III\\src\\test\\Test.Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Library\\Library.csproj": {}
+    "C:\\Carpet1\\Roleplay_III\\src\\Library\\Library.csproj": {}
   },
   "projects": {
-    "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Library\\Library.csproj": {
+    "C:\\Carpet1\\Roleplay_III\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Carpet1\\Roleplay_III\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Library\\Library.csproj",
+        "projectPath": "C:\\Carpet1\\Roleplay_III\\src\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
-        "outputPath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Library\\obj\\",
+        "outputPath": "C:\\Carpet1\\Roleplay_III\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"

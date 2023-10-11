@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sBLmnMJp1qTu0yR6yYNIP5/VF7PtxAln84QW/IfuvRm0CtaglzpqLLx3ztFppMexFF8Fe8NjgDYf8Gap9avXWw==",
+  "dgSpecHash": "2x6L2yYynshLJNNFxT+RUbDi3TU2RJ/tStxTlcgi9XoALzePRlAWxF4TljdYJlCPaMkbmK9tRkA0A66VQ2RWjQ==",
   "success": true,
-  "projectFilePath": "c:\\Carpet1\\PII_RoleplayGame_3_Start\\src\\Program\\Program.csproj",
+  "projectFilePath": "C:\\Carpet1\\Roleplay_III\\src\\Program\\Program.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\59893\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
     "C:\\Users\\59893\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
